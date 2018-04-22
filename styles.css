@@ -1,0 +1,16 @@
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.universal{
+  font-family: 'Special Elite', cursive;
+}
+.quote{
+  quotes: "\201C" "\201D" "2018" "2019";
+  font-style: italic;
+}
+.body{
+  font-family: 'Special Elite', cursive;
+}
